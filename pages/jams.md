@@ -2,6 +2,7 @@
 layout: page
 title: "How the gosh darn heck do I run my own game jam"
 permalink: /jams
+toc: true
 ---
 
 Running a game jam isn't that hard, but a lot of people aren't sure where to start! This guide is intended to serve as a getting started resource.
