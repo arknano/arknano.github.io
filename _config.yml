@@ -25,6 +25,7 @@ title: 39z.dev
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-toc
 
 # Exclude from processing.
 # The following items will not be processed, by default.
