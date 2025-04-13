@@ -1,9 +1,7 @@
 ---
-```shell
 layout: page
 title: "How the gosh darn heck do I run my own game jam"
 permalink: /jams
-```
 ---
 
 # How the gosh darn heck do I run my own game jam
