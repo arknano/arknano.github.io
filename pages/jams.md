@@ -9,7 +9,8 @@ Running a game jam isn't that hard, but a lot of people aren't sure where to sta
 
 Note: I'm talking about game jams here, but there's no reason you can't swap out the word "game" with "music" or "art" or whatever you want! Some stuff will be game specific, but you can use your noggin ey?
 
-* TOC {:toc}
+* TOC 
+{:toc}
  
 ## Planning the Jam
 There's really only two things you need:
