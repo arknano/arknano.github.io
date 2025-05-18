@@ -84,7 +84,7 @@ When it comes to when the jam comes, there's a few key considerations.
 - **Major Game Jams:** Broadly I'd advise against conflicting with major jams such as GMTK Jam, Ludum Dare, etc. You don't want to make your participants have to choose between yours and one they participate in regularly. If your jam is compatible (e.g. no conflicting rules) with the other jam it can work, though!
 - **Time of Year:** Even if you avoid the public holidays, there are some awkward times to do a game jam. It could be between holidays, or in a time of year that has a lot of jams, or when school exams are on, that sort of thing. This can be really hard to gauge, so I wouldn't worry about it too much, but worth keeping in mind
 
-
+___
 ## Prepping the Jam
 Ok, so you've got a banging plan for your jam, now you just need to make it happen. This is where the "work" happens, but don't be afraid, it's a lot easier than making a video game.
 ### Jam Page
@@ -125,7 +125,7 @@ Honestly, I don't think I have useful advice for this. Just post about it. I aim
 
 Where exactly you can promote will depend a lot. I only have experience promoting for community jams, so I just post in the relevant community! 
 
-
+___
 ## Jam Time!
 You've planned the jam. You've prepped the jam. Now its time to jam! But uhhh, what does that actually mean for you as the host? Your main goal is to make the jam feel like more than just a bunch of disparate teams making projects in their own corners of the internet. Your want them to come away from the jam remembering the *jam* - not just the game they made. Easier said than done, but hopefully this helps.
 ### Be Present
@@ -141,7 +141,7 @@ Get everybody's attention at key milestones of the jam; first weekend done, 2 da
 ### Don't Sweat the Deadline
 Three things are certain in life; death, taxes and a team or two deciding to make their build exactly 1 minute before the jam deadline and then missing it. But, like, who cares! You can generate late upload links via the jam dashboard, and I encourage you to offer them to anybody who missed the deadline - after all the point was to get people creating, right? I usually remind people in the "jam's over" announcement that late links are available.
 
-
+___
 ## Jam Moderation
 While I'm not going to into community moderation as a topic here, there's a couple of jam-specific things to keep in mind beyond the deadline one above.
 ### Remove vs Disqualify
@@ -153,6 +153,6 @@ If your jam is unlisted on itch, you will almost certainly get one or two submis
 ### Rule-breaking Submissions
 How you deal with submissions that break the jam rules is obviously going to vary a lot based on the rule itself and way in which it was violated. Generally I advise a soft touch for members of your community, barring repeat offenders or clear intent. A submission that is made with malice and intent is obviously an easy delete, but someone misunderstanding a rule about colour depth or something is less worthy of sanction. Speak to the author and make your decision based on their response.
 
-
+___
 ## That's It
 That's the whole guide. I hope you run some cool jams. If I missed something obvious or you have any further questions, please get in touch with me on Discord `grafeisen`.
